@@ -1,1 +1,1 @@
-console.log("Ciao a tutti");
+a = 1;

@@ -1,1 +1,1 @@
-a = 1;
+console.log("Ciao asdas");
